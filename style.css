@@ -382,23 +382,87 @@ background-color: #F9FAFF;
             }
 
             .section-two {
+                
                 margin-top: 300px;
                  width: 100%;
-                 height: 700px ;
+                 height: 800px ;
                  background: rgba(0, 0, 0, 0.4) url(./xbg_4.jpg.pagespeed.ic.FmCcZGcDYy.jpg) center;
-                 background-repeat: no-repeat;
                  
             }
             
-            .section-two p {
+            .aboutunion p {
                     padding-top: 150px;
                     padding-left: 950px;
                     font-weight: 500;
                     color: #A8A6A7;
                     font-size: 17px;
-                    letter-spacing: 1px;
+                    
                 
             }
+
+            .quality h1 {
+                padding-top: 10px;
+                padding-left: 950px;
+                font-weight: 500;
+                font-size: 50px;
+
+            }
+
+            .far h5 {
+                padding-top: 10px;
+                padding-left: 950px;
+                color:#A8A6A7 ;
+                font-weight: 400;
+                font-size: 20px;
+
+            }
+
+            .playbutton {
+
+                background-color: #6897FA;
+                width: 100px;
+                height: 100px;
+                margin-top: 30px;
+                margin-left: 950px;
+                border-radius: 50%;
+            }
+           
+            .dugmeplay {
+                color: white;
+                font-size: 30px;
+                margin-left: 990px;
+                margin-top: -70px;
+            }
+
+            .dugmeplay a { 
+                text-decoration: none;
+                color: #6897FA;
+                font-size: 20px;
+                padding-left: 60px;
+                font-weight: 600;
+
+            }
+
+
+            .section-three {
+                margin-top: 150px;
+            }
+
+            .section-three p {
+                color: #8C8C8C;
+                font-weight: 500;
+                letter-spacing: 1px;
+                text-align: center;
+            
+            }
+
+            .section-three h1 {
+
+                text-align: center;
+                font-weight: 500;
+                font-size: 50px;
+            }
+        
 
               
 
